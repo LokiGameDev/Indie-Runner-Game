@@ -16,10 +16,10 @@ Use A and D for movement between tracks. SPACE for jump and SHIFT for sneaking.
 
 ## In-Game Screenshots
 
-<img src="/Ingame%20screenshots/Indie%20Runner%201.png" width="400" height="200">
+<img src="/Ingame%20screenshots/Indie%20Runner%201.png" width="500" height="275">
 
-<img src="/Ingame%20screenshots/Indie%20Runner%202.png" width="400" height="200">
+<img src="/Ingame%20screenshots/Indie%20Runner%202.png" width="500" height="275">
 
-<img src="/Ingame%20screenshots/Indie%20Runner%203.png" width="400" height="200">
+<img src="/Ingame%20screenshots/Indie%20Runner%203.png" width="500" height="275">
 
 ## Thanks for playing my game
