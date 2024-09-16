@@ -14,4 +14,8 @@ Use A and D for movement between tracks. SPACE for jump and SHIFT for sneaking.
     1. Click the "Code" in the present page and Download the .zip file.
     2. Extract the .zip folder and Run the Indie Runner.exe file to play the game.
 
+## In-Game Screenshots
+
+![Image Alt Text](/Indie-Runner-Game/blob/main/Ingame%20screenshots/Indie%20Runner%201.png)
+
 ## Thanks for playing my game
