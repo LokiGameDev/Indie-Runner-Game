@@ -9,10 +9,9 @@ This game is a simple runner game made with unity. This game is only for PC. The
 
 Use A and D for movement between tracks. SPACE for jump and SHIFT for sneaking.
 
-## Steps to Download and Play
+## Links
 
-    1. Click the "Code" in the present page and Download the .zip file.
-    2. Extract the .zip folder and Run the Indie Runner.exe file to play the game.
+Play my game -> [Itch.io](https://lokidevtamil.itch.io/indie-runner)
 
 ## In-Game Screenshots
 
